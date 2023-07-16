@@ -1,5 +1,5 @@
 # RandomGuard
-Introducing RandomPass: Your go-to password generator for creating secure and unique passwords with just a few clicks. Say goodbye to weak passwords and protect your accounts with confidence.
+Introducing RandomGuard: Your reliable password generation solution for creating strong and customized passwords effortlessly. Enhance your account security and bid farewell to vulnerable passwords with ease, knowing that PassGenPlus has you covered.
 
 Functionalities: 
 
